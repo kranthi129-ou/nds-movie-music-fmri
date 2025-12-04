@@ -1,0 +1,49 @@
+subject,ROI,mean_z
+sub-12,Frontal Pole,0.3804239203276995
+sub-12,Insular Cortex,0.3336428831764231
+sub-12,Superior Frontal Gyrus,-0.017977611598801523
+sub-12,Middle Frontal Gyrus,0.03240326299449691
+sub-12,"Inferior Frontal Gyrus, pars triangularis",0.30265648372168297
+sub-12,"Inferior Frontal Gyrus, pars opercularis",0.4634684321842886
+sub-12,Precentral Gyrus,-0.06908661097577685
+sub-12,Temporal Pole,0.2729323737782721
+sub-12,"Superior Temporal Gyrus, anterior division",0.14439487545013102
+sub-12,"Superior Temporal Gyrus, posterior division",-0.004385538778484514
+sub-12,"Middle Temporal Gyrus, anterior division",0.5213251239105225
+sub-12,"Middle Temporal Gyrus, posterior division",0.15817238942199255
+sub-12,"Middle Temporal Gyrus, temporooccipital part",-0.021963702880140434
+sub-12,"Inferior Temporal Gyrus, anterior division",0.023034359247809146
+sub-12,"Inferior Temporal Gyrus, posterior division",0.49075845689754627
+sub-12,"Inferior Temporal Gyrus, temporooccipital part",0.20635062554668107
+sub-12,Postcentral Gyrus,-0.0837114489119561
+sub-12,Superior Parietal Lobule,-0.11743061373618491
+sub-12,"Supramarginal Gyrus, anterior division",-0.17469615315395495
+sub-12,"Supramarginal Gyrus, posterior division",-0.11584673871671598
+sub-12,Angular Gyrus,-0.08954006557634142
+sub-12,"Lateral Occipital Cortex, superior division",-0.005295065499605177
+sub-12,"Lateral Occipital Cortex, inferior division",-0.0006462441841738032
+sub-12,Intracalcarine Cortex,0.09672903523450904
+sub-12,Frontal Medial Cortex,0.015238427154793925
+sub-12,Juxtapositional Lobule Cortex (formerly Supplementary Motor Cortex),0.052710262758085186
+sub-12,Subcallosal Cortex,0.086159286680898
+sub-12,Paracingulate Gyrus,0.27532299316409486
+sub-12,"Cingulate Gyrus, anterior division",0.2526905253979778
+sub-12,"Cingulate Gyrus, posterior division",0.295583452242919
+sub-12,Precuneous Cortex,-0.10505667135547354
+sub-12,Cuneal Cortex,0.02945430162966173
+sub-12,Frontal Orbital Cortex,0.36283976266333323
+sub-12,"Parahippocampal Gyrus, anterior division",0.21434504571351268
+sub-12,"Parahippocampal Gyrus, posterior division",0.49486469133182887
+sub-12,Lingual Gyrus,0.25451105072938096
+sub-12,"Temporal Fusiform Cortex, anterior division",0.307185686613218
+sub-12,"Temporal Fusiform Cortex, posterior division",0.44949003013738636
+sub-12,Temporal Occipital Fusiform Cortex,0.27948707920314
+sub-12,Occipital Fusiform Gyrus,-0.016922087838925483
+sub-12,Frontal Opercular Cortex,0.15738578686880056
+sub-12,Central Opercular Cortex,0.4688463066033859
+sub-12,Parietal Opercular Cortex,0.14694762094762462
+sub-12,Planum Polare,0.2743591569462507
+sub-12,Heschl's Gyrus (includes H1 and H2),-0.08733155705879561
+sub-12,Planum Temporale,0.2987076284340703
+sub-12,Supracalcarine Cortex,-0.004273431359732432
+sub-12,Occipital Pole,0.0

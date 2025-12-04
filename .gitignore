@@ -1,0 +1,22 @@
+# Ignore raw data and heavy derivatives
+data/
+derivatives/movie/firstlevel/
+derivatives/music/firstlevel/
+
+# Ignore NIfTI and other big files anywhere
+*.nii
+*.nii.gz
+
+# Python cache / junk
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
